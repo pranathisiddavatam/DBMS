@@ -1,0 +1,8 @@
+CREATE TABLE Students
+(
+student_name VARCHAR(15);
+registration_number INT;
+gender_of_student VARCHAR(10);
+date_of_birth INT;
+mobile_number INT;
+location_of_stay VARCHAR(50));
