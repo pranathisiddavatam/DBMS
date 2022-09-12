@@ -1,0 +1,3 @@
+create table course(course_identifier varchar(10),course_description varchar(20),course_type varchar(25),semester_no int,hall_no int,faculty_identifier varchar(10));
+insert into course(course_identifier,course_description,course_type,semester_no,hall_no,faculty_identifier)values('code','compilation','coding',02,140,'id');
+SELECT*FROM course;
