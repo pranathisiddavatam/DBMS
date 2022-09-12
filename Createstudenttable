@@ -1,0 +1,3 @@
+create table student(student_name varchar(10),reg_no int,gender varchar(12),DOB int,mobile_number int,city varchar(12));
+insert into student(student_name,reg_no,gender,DOB,mobile_number,city)values('rani',192111221,'female',20/10/2001,8920128191,'telangana');
+SELECT*FROM student;
