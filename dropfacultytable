@@ -1,4 +1,0 @@
-create table faculty(faculty_name varchar(10),faculty_no int,gender varchar(12),mobile_number int);
-insert into faculty(faculty_name,faculty_no,gender,mobile_number)values('raju',2131145,'male',8920128191);
-drop table faculty;
-SELECT*FROM faculty;
